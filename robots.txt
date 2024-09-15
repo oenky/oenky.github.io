@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oenky.github.io/JpA/sitemap.JpA.gz
